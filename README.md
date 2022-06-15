@@ -39,8 +39,6 @@
 Project initially created to study and improve my understanding, further improving my knowledge obtained in the courses.<br>
 (Projeto criado inicialmente para estudar e aprimorar minha compreensão, aprimorando ainda mais meus conhecimentos obtidos nos cursos.)
 
-Taking advantage of my brother's restaurant and used as the subject of the study.<br>
-(Aproveitando o restaurante de meu irmão e usado como tema do estudo.)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
