@@ -57,7 +57,7 @@ Project initially created to study and improve my understanding, further improvi
 
 Maycon Batista - [Linkedin](https://www.linkedin.com/in/maycon-batista-71a176238/) - [E-mail](tiutrix@hotmail.com)
 
-Project Link: [https://github.com/MayconTrix/Restaurant-Website](https://github.com/MayconTrix/Restaurant-Website)
+Project Link: [https://github.com/MayconTrix/Nintendo-Switch](https://github.com/MayconTrix/Nintendo-Switch)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
